@@ -8,4 +8,4 @@ From the dataset we need to predict if the object detected by SONAR is Rock or M
 
 3. Analyzed the dataset and after analyzing, used proper algorithm for the model that is Logistic Regression algorithm.
 
-4. Finally, we get the accuracy 
+4. Finally, we get the accuracy of 76%.
