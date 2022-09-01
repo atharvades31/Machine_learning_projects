@@ -1,4 +1,4 @@
-1)  SONAR - Rock Vs Mine Prediction :
+1)  SONAR - ROCK VS MINE PREDICTION :
 
  From the dataset we need to predict if the object detected by SONAR is Rock or Mine.
 
@@ -12,7 +12,7 @@
 
 
 
-2) Credit Card Fraud Detection :
+2) CREDIT CARD FRAUD DETECTION :
  
  From the dataset we need to predict if the transaction done by credit card is legit or fraud
 
